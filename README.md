@@ -129,4 +129,5 @@ Contact: utkarshshanu712@gmail.com
 ## Support
 
 For issues and feature requests, please create an issue in the repository or contact the developer directly.
+I am ready for any suggestions you can give me to utkarshshanu712@gmail.com
 ```
