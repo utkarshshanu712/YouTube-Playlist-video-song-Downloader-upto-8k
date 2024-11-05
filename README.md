@@ -30,7 +30,7 @@ A powerful desktop application for downloading YouTube videos , song in any form
 3. Run `YouTube Playlist Downloader.exe`
 
 
-### Method 2: Running from Source git clone https://github.com/yourusername/youtube-playlist-downloader.git
+### Method 2: Running from Source git clone https://github.com/utkarshshanu712/YouTube-Playlist-video-song-Downloader-upto-8k/tree/master
 cd youtube-playlist-downloader
 
 
