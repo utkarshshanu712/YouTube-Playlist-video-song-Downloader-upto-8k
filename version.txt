@@ -1,0 +1,16 @@
+Version: 1.0.0
+Release Date: March 2024
+
+Project Information:
+- Initial Release
+- Copyright (c) 2024 UTKARSH KUMAR
+- Contact: utkarshshanu712@gmail.com
+
+Version History:
+1.0.0 - Initial Release
+- First public release
+- Core functionality implemented
+- Basic features established
+
+For more information or inquiries, please refer to the copyright notice
+or contact the author directly. 
