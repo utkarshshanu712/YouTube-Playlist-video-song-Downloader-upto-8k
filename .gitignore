@@ -1,0 +1,8 @@
+# Build directories
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Build files
+*.spec 
