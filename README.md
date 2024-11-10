@@ -21,6 +21,7 @@ A powerful desktop application for downloading YouTube videos , song in any form
 ![image](https://github.com/user-attachments/assets/d0a7b317-69d9-4651-b43c-012718f7281b)
 ![image](https://github.com/user-attachments/assets/84644d99-043b-4e2e-9908-9b2bd19caf1b)
 ![image](https://github.com/user-attachments/assets/f6e7b11d-db7b-4764-aea0-950a4ea5c8ba)
+https://github.com/utkarshshanu712/YouTube-Playlist-video-song-Downloader-upto-8k/releases
 
 
 
