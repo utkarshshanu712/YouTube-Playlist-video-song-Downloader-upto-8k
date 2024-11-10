@@ -16,7 +16,13 @@ A powerful desktop application for downloading YouTube videos , song in any form
   - Download status log
   - Pause/Resume support
 - **Custom Save Location**: Choose where to save your downloads
-- **Error Handling**: Robust error management and user feedback
+- **Error Handling**: Robust error management and user feedback![image](https://github.com/user-attachments/assets/d7d28636-b82f-4ee3-8e77-a861a895a9a0)![image](https://github.com/user-attachments/assets/fe3ae27e-3a33-49a1-befc-6fd03767528c)
+![image](https://github.com/user-attachments/assets/ac9a4598-d5bc-4aa8-bc12-015770111f87)
+![image](https://github.com/user-attachments/assets/d0a7b317-69d9-4651-b43c-012718f7281b)
+![image](https://github.com/user-attachments/assets/84644d99-043b-4e2e-9908-9b2bd19caf1b)
+![image](https://github.com/user-attachments/assets/f6e7b11d-db7b-4764-aea0-950a4ea5c8ba)
+
+
 
 ## Installation
 
