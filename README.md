@@ -11,9 +11,29 @@ A powerful desktop application for downloading YouTube videos and playlists with
 - Email: utkarshshanu712@gmail.com
 
 ## Features
+ **High-Quality Video Downloads**: Support for up to 8K (4320p) resolution
+- **Smart Playlist Management**: Download entire playlists with progress tracking
+- **Advanced Audio Options**: 
+  - Multiple formats: MP3, M4A, WAV, FLAC, AAC
+  - High-quality audio: 64kbps to 320kbps
+  - Audio extraction from videos
+- **Modern Interface**:
+  - Real-time progress tracking
+  - Video thumbnail previews
+  - Download speed monitoring
+  - Pause/Resume functionality
+- **Customization**:
+  - Flexible save location
+  - Format selection
+  - Quality preferences
+- **Reliability**:
+  - Auto-retry on failure
+  - Network error handling
+  - Format validation
+![Screenshot 2024-11-13 232621](https://github.com/user-attachments/assets/5126e708-e09d-4917-9b9c-4871c5e59357)
 
+## Installation![Screenshot 2024-11-13 232559](https://github.com/user-attachments/assets/6d037a39-7c4a-4c6f-bd52-15eeb35bc5e7)
 
-## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
