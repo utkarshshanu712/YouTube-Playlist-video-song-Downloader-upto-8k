@@ -12,25 +12,6 @@ A powerful desktop application for downloading YouTube videos and playlists with
 
 ## Features
 
-- **High-Quality Video Downloads**: Support for up to 8K (4320p) resolution
-- **Smart Playlist Management**: Download entire playlists with progress tracking
-- **Advanced Audio Options**: 
-  - Multiple formats: MP3, M4A, WAV, FLAC, AAC
-  - High-quality audio: 64kbps to 320kbps
-  - Audio extraction from videos
-- **Modern Interface**:
-  - Real-time progress tracking
-  - Video thumbnail previews
-  - Download speed monitoring
-  - Pause/Resume functionality
-- **Customization**:
-  - Flexible save location
-  - Format selection
-  - Quality preferences
-- **Reliability**:
-  - Auto-retry on failure
-  - Network error handling
-  - Format validation
 
 ## Installation
 
@@ -54,7 +35,7 @@ A powerful desktop application for downloading YouTube videos and playlists with
 3. Run `YouTube Playlist Downloader.exe`
 
 
-### Method 2: Running from Source git clone https://github.com/yourusername/youtube-playlist-downloader.git
+### Method 2: Running from Source git clone https://github.com/utkarshshanu712/YouTube-Playlist-video-song-Downloader-upto-8k/tree/master
 cd youtube-playlist-downloader
 
 
@@ -153,4 +134,5 @@ Contact: utkarshshanu712@gmail.com
 ## Support
 
 For issues and feature requests, please create an issue in the repository or contact the developer directly.
+I am ready for any suggestions you can give me to utkarshshanu712@gmail.com
 ```
