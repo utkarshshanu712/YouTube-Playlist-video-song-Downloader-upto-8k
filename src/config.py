@@ -9,10 +9,9 @@ SUPPORTED_RESOLUTIONS = ["144p", "240p", "360p", "480p", "720p", "1080p", "1440p
 
 # Audio format options
 SUPPORTED_AUDIO_FORMATS = {
-    "MP3": "mp3",
     "M4A": "m4a",
+    "MP3": "mp3",
     "WAV": "wav",
-    "FLAC": "flac",
     "AAC": "aac"
 }
 
@@ -24,7 +23,7 @@ SUPPORTED_AUDIO_QUALITIES = {
     "64kbps": "64"
 }
 
-DEFAULT_AUDIO_FORMAT = "MP3"
+DEFAULT_AUDIO_FORMAT = "M4A"
 DEFAULT_AUDIO_QUALITY = "192kbps"
 
 # Console colors

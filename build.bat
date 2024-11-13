@@ -1,21 +1,24 @@
 @echo off
-echo Cleaning and rebuilding application...
+echo Cleaning and building application...
 
-REM Clean previous builds
-if exist "build" rmdir /s /q build
-if exist "dist" rmdir /s /q dist
+REM Install required packages
+python -m pip install -r requirements.txt --upgrade
 
-REM Install requirements
-python -m pip install -r requirements.txt
+REM Kill any running instances
+taskkill /F /IM "YouTube Playlist Downloader.exe" 2>nul
+timeout /t 2 /nobreak >nul
 
-REM Run PyInstaller
-python build_exe.py
+REM Clean everything
+python -c "from src.build_exe import clean_builds; clean_builds()"
+timeout /t 2 /nobreak >nul
+
+REM Build optimized executable
+python -OO src/build_exe.py
 
 if exist "dist\YouTube Playlist Downloader.exe" (
     echo Build successful!
-    echo Starting application...
-    start "" "dist\YouTube Playlist Downloader.exe"
 ) else (
     echo Build failed!
     pause
+    exit /b 1
 ) 
