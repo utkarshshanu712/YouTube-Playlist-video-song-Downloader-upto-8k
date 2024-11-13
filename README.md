@@ -1,28 +1,52 @@
-# YouTube Playlist video song Downloader upto 8k
+# YouTube Playlist & Video Downloader Pro
 
-A powerful desktop application for downloading YouTube videos , song in any format and playlists with customizable quality settings.
+A powerful desktop application for downloading YouTube videos and playlists with support for up to 8K quality and various audio formats.
+
+## Latest Version: 1.1.0 (March 2024)
+
+## Author
+- **Utkarsh Kumar**
+- GitHub: [@utkarshshanu712](https://github.com/utkarshshanu712)
+- Project: [YouTube-Playlist-Downloader](https://github.com/utkarshshanu712/YouTube-Playlist-Downloader)
+- Email: utkarshshanu712@gmail.com
 
 ## Features
 
-- **Video Downloads**: Download single YouTube videos
-- **Playlist Support**: Download entire YouTube playlists
-- **Quality Options**: Choose video quality up to 4K (4320p)
-- **Audio Extraction**: Download audio-only in multiple formats
-  - Supported formats: MP3, M4A, WAV, FLAC, AAC
-  - Adjustable audio quality (64kbps to 320kbps)
-- **User-Friendly Interface**:
-  - Progress tracking
-  - Video thumbnail preview
-  - Download status log
-  - Pause/Resume support
-- **Custom Save Location**: Choose where to save your downloads
-- **Error Handling**: Robust error management and user feedback
+- **High-Quality Video Downloads**: Support for up to 8K (4320p) resolution
+- **Smart Playlist Management**: Download entire playlists with progress tracking
+- **Advanced Audio Options**: 
+  - Multiple formats: MP3, M4A, WAV, FLAC, AAC
+  - High-quality audio: 64kbps to 320kbps
+  - Audio extraction from videos
+- **Modern Interface**:
+  - Real-time progress tracking
+  - Video thumbnail previews
+  - Download speed monitoring
+  - Pause/Resume functionality
+- **Customization**:
+  - Flexible save location
+  - Format selection
+  - Quality preferences
+- **Reliability**:
+  - Auto-retry on failure
+  - Network error handling
+  - Format validation
 
 ## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
 - Windows OS (tested on Windows 10/11)
+- FFmpeg (required for video/audio processing)
+
+### Installing FFmpeg
+1. Download FFmpeg from https://ffmpeg.org/download.html
+2. Extract the ZIP file
+3. Add the `bin` folder to your system PATH
+   - Open System Properties → Advanced → Environment Variables
+   - Under System Variables, select "Path" and click "Edit"
+   - Click "New" and add the path to FFmpeg's bin folder
+   - Click "OK" to save changes
 
 ### Method 1: Using Pre-built Executable
 1. Download the latest release from the releases page

@@ -1,16 +1,24 @@
-Version: 1.0.0
+Version: 1.1.0
 Release Date: March 2024
 
 Project Information:
-- Initial Release
-- Copyright (c) 2024 UTKARSH KUMAR
+- Second Release with Improvements
+- Created by Utkarsh Kumar
+- GitHub: https://github.com/utkarshshanu712
 - Contact: utkarshshanu712@gmail.com
 
 Version History:
-1.0.0 - Initial Release
-- First public release
+1.1.0 - March 2024
+- Improved FFmpeg integration
+- Fixed audio-only download issues
+- Enhanced progress tracking
+- Added GitHub integration
+- Optimized build process
+
+1.0.0 - March 2024
+- Initial public release
 - Core functionality implemented
 - Basic features established
 
-For more information or inquiries, please refer to the copyright notice
-or contact the author directly. 
+For more information or inquiries, please visit:
+https://github.com/utkarshshanu712/YouTube-Playlist-Downloader 

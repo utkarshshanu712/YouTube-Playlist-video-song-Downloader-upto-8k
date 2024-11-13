@@ -1,8 +1,23 @@
-# Build directories
+# Build files
 build/
 dist/
 __pycache__/
 *.pyc
+*.spec
 
-# Build files
-*.spec 
+# FFmpeg files
+src/ffmpeg/
+ffmpeg/
+ffmpeg-master-latest-win64-gpl/
+
+# Environment
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
